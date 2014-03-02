@@ -1,5 +1,7 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+普通ごみ,,,,#ea3b13
+プラ容器,,,,#77ae1f
+ミックスペーパー,,,,#bbe400
+缶・ペット・びん・電池,,,,#2dc7aa
+粗大ごみ,,,,#999999
+小物金属,,,,#999999
